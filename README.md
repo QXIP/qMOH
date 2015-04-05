@@ -1,2 +1,2 @@
 # quasarMOH
-"Music on Hold" collection for VoIP fruition
+"Music on Hold" collection for VoIP fruition (Royalty-Free)
