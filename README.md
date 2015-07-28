@@ -1,5 +1,6 @@
 # qMOH
-"Music on Hold" collection for VoIP fruition (Royalty-Free) offered by QXIP BV
+"Music on Hold" audio collection for VoIP fruition only (Royalty-Free) in PCM/WAV/16/44
+(C) QXIP BV
 
 
 
