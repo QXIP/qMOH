@@ -1,5 +1,5 @@
 # qMOH
-"Music on Hold" audio collection for VoIP fruition only (Royalty-Free) in PCM/WAV/16/44
+"Music on Hold" Royalty-Free audio collection for VoIP fruition only (CC) in PCM/WAV/16/44
 
 
 
