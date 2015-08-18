@@ -15,7 +15,7 @@ sox input.wav output.wav pad 0.1 0
 ```
 
 
-<audio src="https://github.com/QXIP/qMOH/blob/master/atmospheric/qMOH-bet_on_nervous.wav?raw=true"></audio>
+<audio controls src="https://github.com/QXIP/qMOH/blob/master/atmospheric/qMOH-bet_on_nervous.wav?raw=true"></audio>
 
 ## License
 
