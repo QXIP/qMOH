@@ -23,4 +23,4 @@ sox input.wav output.wav pad 0.1 0
 
 ## Credit 
 
-(P) & (C) QXIP BV - Amsterdam, The Netherlands - Music Written, Composed and Arranged by L. Mangani
+(P) & (C) QXIP BV - Amsterdam, The Netherlands - Written, Composed and Arranged by L. Mangani
