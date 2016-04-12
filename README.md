@@ -15,7 +15,25 @@ sox input.wav output.wav pad 0.1 0
 ```
 
 
-<audio controls src="https://github.com/QXIP/qMOH/blob/master/atmospheric/qMOH-bet_on_nervous.wav?raw=true"></audio>
+### Showcase
+
+#### Jitter Collection
+
+  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-cable_company.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-icmp_wars.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-pain_de_luxe.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-transport_layer.wav
+
+#### Atmospheric Collection
+
+  * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-bet_on_nervous.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-friends_inline.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-heaven_can_hold.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-holding_on_and_on.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-spacelijk_queue.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-underwater_bells.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-waiting_deelight.wav
+
 
 ## License
 
