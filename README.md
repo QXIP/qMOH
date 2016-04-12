@@ -17,13 +17,6 @@ sox input.wav output.wav pad 0.1 0
 
 ### Showcase
 
-#### Jitter Collection
-
-  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-cable_company.wav
-  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-icmp_wars.wav
-  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-pain_de_luxe.wav
-  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-transport_layer.wav
-
 #### Atmospheric Collection
 
   * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-bet_on_nervous.wav
@@ -33,6 +26,13 @@ sox input.wav output.wav pad 0.1 0
   * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-spacelijk_queue.wav
   * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-underwater_bells.wav
   * https://cdn.rawgit.com/QXIP/qMOH/master/atmospheric/qMOH-waiting_deelight.wav
+
+#### Jitter Collection
+
+  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-cable_company.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-icmp_wars.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-pain_de_luxe.wav
+  * https://cdn.rawgit.com/QXIP/qMOH/master/jitter/qMOH-transport_layer.wav
 
 
 ## License
